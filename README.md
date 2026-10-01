@@ -1,6 +1,6 @@
 # Glassify - Glassmorphism Rainmeter Widgets
 
-![Glassify Banner](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Glassify Banner]([https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Glassify%20-%20Github%20Banner.png))
 
 **Glassify** is a modern *desktop dashboard suite* for Rainmeter with a simple and clean **Frosted Glass (Acrylic)** UI style. It is specifically designed with a standard width of 375px, consistent grid proportions, and modern *typography* using the **Plus Jakarta Sans** font.
 
