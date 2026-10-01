@@ -45,34 +45,34 @@ The guide covers:
 ## 🖼️ Skin Variants
 
 #### Calendar Standard
-![Calendar](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Calendar](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Calendar%20Standard.png)
 
 #### Daily Brief
-![Daily Brief](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Daily Brief](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Daily%20Brief.png)
 
 #### Hardware Sensors
-![Hardware Sensors](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Hardware Sensors](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Hardware%20Sensors.png)
 
 #### Network
-![Network](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Network](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Network.png)
 
 #### Quick Notes
-![Quick Notes](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Quick Notes](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Quick%20Notes.png)
 
 #### System Power
-![System Power](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![System Power](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/System%20Power.png)
 
 #### System Monitor Standard
-![System Monitor Standard](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![System Monitor Standard](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/System%20Monitor%20Standard.png)
 
 #### System Monitor Simple
-![System Monitor Simple](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![System Monitor Simple](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/System%20Monitor%20Simple.png)
 
 #### Weather Standard
-![Weather](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Weather](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Weather%20Standard.png)
 
 #### Weather & Calendar Small
-![Weather Calendar Small](https://via.placeholder.com/1200x400/0f172a/06b6d4?text=Glassify+Rainmeter+Suite)
+![Weather Calendar Small](https://github.com/rezamufaris/Glassify-Rainmeter-Widgets/blob/main/Screenshots/Weather%20%26%20Calendar%20Small.png)
 
 
 
